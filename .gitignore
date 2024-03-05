@@ -1,0 +1,6 @@
+/test/
+/vendor/
+test.*
+index.php
+lowcache.sublime-project
+lowcache.sublime-workspace
